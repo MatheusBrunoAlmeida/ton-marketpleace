@@ -1,6 +1,6 @@
 Aplicação para listagem de produtos e gerenciamento de carrinho de compras.
 
-Utilizando Typescript, React Native, AsyncStorage e FakeAPI (json-server)
+Utilizando Typescript, React Native, AsyncStorage e MockApi (<a href="https://www.mockapi.io/">mockapi.io</a>)
 
 ## Como preparar o app
 
